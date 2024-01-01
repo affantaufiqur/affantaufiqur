@@ -1,6 +1,6 @@
 @ikangg
 
-just some unemployed (for now) grad student github profile.
+just some unemployed (for now) student github profile.
 
 <!--START_SECTION:waka-->
 
