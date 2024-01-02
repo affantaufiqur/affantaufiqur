@@ -16,7 +16,7 @@ jobs:
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
                   TIME_RANGE: last_30_days
-                  IGNORED_LANGUAGES: PowerShell YAML JSON TOML
+                  IGNORED_LANGUAGES: PowerShell YAML JSON TOML netrw
                   BLOCKS: =>
                   SHOW_TOTAL: true
                   SHOW_TIME: true
