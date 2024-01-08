@@ -20,3 +20,4 @@ jobs:
                   BLOCKS: =>
                   SHOW_TOTAL: true
                   SHOW_TIME: true
+                  LANG_COUNT: 5
