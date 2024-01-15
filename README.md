@@ -5,12 +5,12 @@ just some unemployed (for now) student github profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 123 hrs
+Total Time: 127 hrs 54 mins
 
-TypeScript    81 hrs 39 mins  >>>>>>>>>>>>>>>>=========   65.72 %
-Svelte        12 hrs 39 mins  >>>======================   10.19 %
-Lua           4 hrs 8 mins    >========================   03.33 %
-Astro         2 hrs 22 mins   =========================   01.91 %
+TypeScript    82 hrs 56 mins  >>>>>>>>>>>>>>>>=========   64.22 %
+Svelte        14 hrs 44 mins  >>>======================   11.41 %
+Lua           4 hrs 21 mins   >========================   03.38 %
+Astro         2 hrs 22 mins   =========================   01.84 %
 ```
 
 <!--END_SECTION:waka-->
