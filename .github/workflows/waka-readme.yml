@@ -16,7 +16,7 @@ jobs:
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
                   TIME_RANGE: all_time
-                  IGNORED_LANGUAGES: PowerShell YAML JSON TOML netrw other MDX CSS JavaScript
+                  IGNORED_LANGUAGES: PowerShell YAML JSON TOML netrw other MDX CSS JavaScript mysql SQL
                   BLOCKS: =>
                   SHOW_TOTAL: true
                   SHOW_TIME: true
