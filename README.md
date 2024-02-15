@@ -1,6 +1,6 @@
 @ikangg
 
-just some unemployed (for now) student github profile.
+Open for work! :D
 
 <!--START_SECTION:waka-->
 
