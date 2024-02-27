@@ -5,11 +5,11 @@ Open for work! :D
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 268 hrs 41 mins
+Total Time: 275 hrs 14 mins
 
-TypeScript    153 hrs 36 mins >>>>>>>>>>>>>>===========   56.88 %
-Svelte        16 hrs 28 mins  >>=======================   06.10 %
-Lua           9 hrs 17 mins   >========================   03.44 %
+TypeScript    154 hrs 42 mins >>>>>>>>>>>>>>===========   55.92 %
+Svelte        16 hrs 28 mins  >========================   05.96 %
+Lua           9 hrs 17 mins   >========================   03.36 %
 ```
 
 <!--END_SECTION:waka-->
