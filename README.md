@@ -1,7 +1,4 @@
 @ikangg
-
-Open for work! :D
-
 <!--START_SECTION:waka-->
 
 ```txt
