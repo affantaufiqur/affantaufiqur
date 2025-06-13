@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2,052 hrs 32 mins
+Total Time: 2,054 hrs 50 mins
 
-Svelte                     1,285 hrs 12 mins>>>>>>>>>>>>>>>==========   61.50 %
-TypeScript                 246 hrs 20 mins >>>======================   11.79 %
+Svelte                     1,286 hrs 27 mins>>>>>>>>>>>>>>>==========   61.45 %
+TypeScript                 246 hrs 20 mins >>>======================   11.77 %
 Rust                       49 hrs 11 mins  >========================   02.35 %
-Lua                        37 hrs 26 mins  =========================   01.79 %
+Other                      38 hrs 33 mins  =========================   01.84 %
 ```
 
 <!--END_SECTION:waka-->
